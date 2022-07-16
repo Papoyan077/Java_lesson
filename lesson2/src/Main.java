@@ -96,7 +96,7 @@ public class Main {
         x = 7;
         x += 2;//krchat gumarum x=x+2
         System.out.println(x);
-        x&=2;
+        x &= 2;
         System.out.println(x);
 
 
