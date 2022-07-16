@@ -11,6 +11,7 @@ public class HomeWork {
         System.out.println(
                 "name-"+name+"\n" + "surname-"+surNAme +"\n"+ "age-"+age+'\n'+"born-"+born+day+'.'+mounth
         );
+        System.out.println("change");
 
     }
 }
